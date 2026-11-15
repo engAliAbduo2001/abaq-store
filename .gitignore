@@ -1,0 +1,12 @@
+.aider*
+
+/backend/node_modules/
+/backend/.env
+/backend/.env.*
+!/backend/.env.example
+/backend/data/*.json
+/backend/data/*.json.*.tmp
+/frontend/.dart_tool/
+/frontend/build/
+/frontend/.flutter-plugins-dependencies
+/frontend/.packages
